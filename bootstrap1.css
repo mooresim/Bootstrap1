@@ -7,3 +7,7 @@
 .break{
     height: 25px;
 }
+
+.table-hover tr:hover td{
+    background-color: gray;
+}
