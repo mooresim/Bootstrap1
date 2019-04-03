@@ -11,3 +11,10 @@
 .table-hover tr:hover td{
     background-color: gray;
 }
+
+.Jumbotron{
+    background-image: url(doggy.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+   /* background-position-y: -20px; */
+}
